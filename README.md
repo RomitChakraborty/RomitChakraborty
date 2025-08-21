@@ -21,7 +21,7 @@ Computational materials scientist and quantum chemist with a Ph.D. from the **Un
 - **Quantum chemistry:** DFT, correlated wavefunction theory, generalized Pauli constraints  
 - **Quantum computing:** qubitisation, gradient estimation, noise/entanglement detection  
 - **Programming:** Python, Julia, C++, Mathematica; MPI, Slurm  
-- **Machine learning:** PyTorch, TensorFlow, JAX, reinforcement learning  
+- **Machine learning:** PyTorch, TensorFlow, JAX
 
 ---
 
@@ -44,8 +44,8 @@ Computational materials scientist and quantum chemist with a Ph.D. from the **Un
 - 🌍 Website: [rchakraborty.dev](https://www.rchakraborty.dev)  
 - 🔗 LinkedIn: [linkedin.com/in/romit-chakraborty](https://www.linkedin.com/in/romit-chakraborty)  
 - 📚 Google Scholar: [Romit Chakraborty](https://scholar.google.com/citations?hl=en&user=m4HlFRIAAAAJ&view_op=list_works&sortby=pubdate)  
-- 🧪 ORCID: [0000-0002-xxxx-xxxx](https://orcid.org/)  
+
 
 ---
 
-⚡ *Always exploring the intersection of quantum theory, computation, and AI to accelerate materials discovery.*
+
