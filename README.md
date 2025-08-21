@@ -1,6 +1,6 @@
 # Romit Chakraborty
 
-Computational materials scientist and quantum chemist with a Ph.D. from the **University of Chicago** and postdoctoral training at **UC Berkeley** and **Lawrence Berkeley National Laboratory**. My research sits at the interface of **quantum chemistry**, **materials discovery**, and **AI/ML** — developing methods that push accuracy and scalability in simulations of quantum and functional materials:contentReference[oaicite:0]{index=0}.
+Computational materials scientist and quantum chemist with a Ph.D. from the **University of Chicago** and postdoctoral training at **UC Berkeley** and **Lawrence Berkeley National Laboratory**. My research sits at the interface of **quantum chemistry**, **materials discovery**, and **AI/ML** — developing methods that push accuracy and scalability in simulations of quantum and functional materials:content
 
 **Current focus**  
 - Quantum applications for chemistry on fault-tolerant quantum computers  
