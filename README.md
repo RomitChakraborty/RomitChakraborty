@@ -34,7 +34,7 @@ Computational materials scientist and quantum chemist with a Ph.D. from the **Un
 ---
 
 ## Awards & Fellowships
-- Microsoft Research: **Accelerate Foundation Models Research** (2023)  
+- Microsoft Research: **Accelerate Foundation Models Research** (2023-24)  
 - Berkeley Lab: **Inclusion in Science and Society Award** (2023)  
 - DFG: **Lindau Graduate Fellowship** (2009)  
 
