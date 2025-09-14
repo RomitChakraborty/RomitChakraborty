@@ -26,7 +26,7 @@ Computational materials scientist and quantum chemist with a Ph.D. from the **Un
 ---
 
 ## Selected Publications
-- *Quantum Chemical Modeling of Hydrogen Binding in Metal-Organic Frameworks* (PCCP Hot Article, 2023)  
+- *Quantum Chemical Modeling of Hydrogen Binding in Metal-Organic Frameworks* (PCCP Hot Article, 2024)  
 - *Selective Adsorption of Oxygen from Humid Air in a MOF with Cu(I) Sites* (JACS, 2024)  
 - *Software for the Frontiers of Quantum Chemistry: Developments in Q-Chem 5* (J. Chem. Phys., 2021)  
 - See full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=m4HlFRIAAAAJ&view_op=list_works&sortby=pubdate).
