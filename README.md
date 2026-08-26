@@ -42,6 +42,7 @@ Computational quantum chemist with a Ph.D. from the **University of Chicago** an
 ---
 
 ## 🌐 Links
+- Research Pod: [pointreyessound.com](https://www.pointreyessound.com)
 - 🌍 Website: [rchakraborty.dev](https://www.rchakraborty.dev)  
 - 🔗 LinkedIn: [linkedin.com/in/romit-chakraborty](https://www.linkedin.com/in/romit-chakraborty)  
 - 📚 Google Scholar: [Romit Chakraborty](https://scholar.google.com/citations?hl=en&user=m4HlFRIAAAAJ&view_op=list_works&sortby=pubdate)  
