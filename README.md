@@ -1,8 +1,9 @@
 # Romit Chakraborty
 
-Computational materials scientist and quantum chemist with a Ph.D. from the **University of Chicago** and postdoctoral training at **UC Berkeley** and **Lawrence Berkeley National Laboratory**. My research sits at the interface of **quantum chemistry**, **materials discovery**, and **AI/ML** — developing methods that push accuracy and scalability in simulations of quantum and functional materials:content
+Computational quantum chemist with a Ph.D. from the **University of Chicago** and postdoctoral training at **UC Berkeley** and **Lawrence Berkeley National Laboratory**. My research sits at the interface of **quantum chemistry**, **materials discovery**, and **AI/ML** — developing methods that push accuracy and scalability in simulations of quantum and functional materials:content
 
 **Current focus**  
+- Point Reyes Sound, Inc. where we are developing the next generation of quantum chemistry solvers.
 - Quantum applications for chemistry on fault-tolerant quantum computers  
 - Multimodal and agentic AI for quantum chemistry (LLMs + orbital representations)  
 - ML-augmented electronic structure methods and gas sorption in MOFs
