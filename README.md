@@ -43,11 +43,8 @@ Mathematical formulation of pure $N$-representability polytope pinning constrain
 
 1. **R. Chakraborty**, *Quantum Boltzmann Equation Self-Consistent-Field Method for Entropic Regularization of Mean-Field Singularities near Conical Intersections*, **arXiv:2608.14979** (2026). [DOI: 10.48550/arXiv.2608.14979](https://arxiv.org/abs/2608.14979)
 2. **R. Chakraborty**, H. Z. H. Jiang, T. Runčevski, J. R. Long, M. Head-Gordon, *Quantum Chemical Modeling of Hydrogen Binding in Metal-Organic Frameworks with Open Metal Sites: Level of Theory Validation and Insights*, **Phys. Chem. Chem. Phys.**, 26, 7356 (2024). [DOI: 10.1039/D3CP05540J](https://doi.org/10.1039/D3CP05540J) *(PCCP Hot Article)*
-3. H. Z. H. Jiang, M. V. Parkhomenko, A. C. McGehee, **R. Chakraborty**, S. J. L. Billinge, M. Head-Gordon, J. R. Long, *Selective and Reversible Adsorption of Oxygen from Humid Air in a Metal-Organic Framework with Trigonal Pyramidal Copper(I) Sites*, **J. Am. Chem. Soc.**, 146, 7551 (2024). [DOI: 10.1021/jacs.3c10753](https://doi.org/10.1021/jacs.3c10753)
-4. **R. Chakraborty**, M. Head-Gordon, *Free Energy Decomposition Analysis of Non-Covalent Interactions via Absolutely Localized Molecular Orbitals*, **J. Phys. Chem. Lett.**, 14, 6138 (2023). [DOI: 10.1021/acs.jpclett.3c01397](https://doi.org/10.1021/acs.jpclett.3c01397)
-5. E. Epifanovsky et al. (including **R. Chakraborty**), *Software for the Frontiers of Quantum Chemistry: An Overview of Developments in the Q-Chem 5 Package*, **J. Chem. Phys.**, 155, 084801 (2021). [DOI: 10.1063/5.0055522](https://doi.org/10.1063/5.0055522)
-6. **R. Chakraborty**, D. A. Mazziotti, *Sparsity of the Wavefunction from the Generalized Pauli Exclusion Principle*, **J. Chem. Phys.**, 148, 054106 (2018). [DOI: 10.1063/1.5010985](https://doi.org/10.1063/1.5010985)
-7. **R. Chakraborty**, D. A. Mazziotti, *Generalized Pauli Conditions on the Spectra of One-Electron Reduced Density Matrices of Atoms and Molecules*, **Phys. Rev. A**, 89, 042505 (2014). [DOI: 10.1103/PhysRevA.89.042505](https://doi.org/10.1103/PhysRevA.89.042505)
+3. E. Epifanovsky et al. (including **R. Chakraborty**), *Software for the Frontiers of Quantum Chemistry: An Overview of Developments in the Q-Chem 5 Package*, **J. Chem. Phys.**, 155, 084801 (2021). [DOI: 10.1063/5.0055522](https://doi.org/10.1063/5.0055522)
+4. **R. Chakraborty**, D. A. Mazziotti, *Generalized Pauli Conditions on the Spectra of One-Electron Reduced Density Matrices of Atoms and Molecules*, **Phys. Rev. A**, 89, 042505 (2014). [DOI: 10.1103/PhysRevA.89.042505](https://doi.org/10.1103/PhysRevA.89.042505)
 
 ---
 
