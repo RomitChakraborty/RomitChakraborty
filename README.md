@@ -51,4 +51,4 @@ Mathematical formulation of pure $N$-representability polytope pinning constrain
 ### Contact & Correspondence
 - **Email (Point Reyes Sound):** [romit@pointreyessound.com](mailto:romit@pointreyessound.com)
 - **Email (Academic):** [romit@uchicago.edu](mailto:romit@uchicago.edu)
-- **Location:** San Francisco Bay Area, CA
+- **Location:** Working Hybrid for Point Reyes Sound, Inc. 
