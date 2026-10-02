@@ -1,7 +1,7 @@
 # Romit Chakraborty
 
 **Quantum Chemist & AI Researcher**  
-Founder & Chief Scientific Officer, **Point Reyes Sound, Inc.**  
+Founder & CEO, **Point Reyes Sound, Inc.**  
 *University of Chicago (Ph.D. ’17) · UC Berkeley & Lawrence Berkeley National Lab (’23) · PsiQuantum (2025) · IIT Bombay (’12)*
 
 ---
