@@ -41,7 +41,8 @@ As the Founder & CEO of [**Point Reyes Sound, Inc.**](https://pointreyessound.co
 ### 1. Continuous Phase-Space Kinetics & QBE-SCF
 Developing the **Quantum Boltzmann Equation Self-Consistent Field (QBE-SCF)** solver, propagating the one-electron reduced density matrix (1-RDM) through non-equilibrium Bhatnagar-Gross-Krook (BGK) collision relaxation. Eliminates unphysical spin-symmetry breaking and smoothly regularizes mean-field singularities near conical intersections at polynomial $\mathcal{O}(N^3)$ cost.
 * **Preprint:** [arXiv:2608.14979](https://arxiv.org/abs/2608.14979) `[physics.chem-ph, quant-ph]`
-* **Code & Data:** [`point-reyes-sound/p1_qbescf`](https://github.com/point-reyes-sound/p1_qbescf) • [`point-reyes-sound/point-reyes-sound`](https://github.com/point-reyes-sound/point-reyes-sound)
+* **Open Benchmark Suite:** [`point-reyes-sound/p1_qbescf`](https://github.com/point-reyes-sound/p1_qbescf) *(Reproduction data; core solver engine is proprietary commercial IP)*
+* **Interactive 3D Engine:** [`point-reyes-sound/point-reyes-sound`](https://github.com/point-reyes-sound/point-reyes-sound)
 
 ### 2. Generalized Pauli Conditions & Reduced Density Matrices
 Formulating mathematical constraints on the eigenvalues of one-particle reduced density matrices ($N$-representability polytope pinning). Proved that saturation of generalized Pauli boundary conditions (Borland-Dennis and Klyachko conditions) enforces structural sparsity in CI wavefunctions and dictates dynamic state transitions in atoms, molecules, and open quantum systems.
@@ -74,6 +75,9 @@ Co-developer of the Q-Chem 5 package, implementing open-shell electronic structu
 ---
 
 ## Selected Repositories & Open Source
+
+> *Notice: Core Q-BOLTZ™ electronic structure solver backends are proprietary trade secrets of Point Reyes Sound, Inc. Open repositories host public reproduction datasets, potential energy surfaces, and demonstration interfaces.*
+
 
 * [**`point-reyes-sound/point-reyes-sound`**](https://github.com/point-reyes-sound/point-reyes-sound) — Core Point Reyes Sound platform, 3D reaction chamber, and phase-locked sonification engine.
 * [**`point-reyes-sound/p1_qbescf`**](https://github.com/point-reyes-sound/p1_qbescf) — Open reproduction datasets, potential energy curves, and validation benchmarks for QBE-SCF (arXiv:2608.14979).
