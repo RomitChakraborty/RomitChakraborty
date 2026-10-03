@@ -34,7 +34,7 @@ As the Founder & CEO of [**Point Reyes Sound, Inc.**](https://pointreyessound.co
 
 ---
 
-## Research Programs
+## Research Program
 
 ### 1. The Quantum Boltzmann Equation for Electronic Structure
 Propagating the one-electron reduced density matrix through non-equilibrium Bhatnagar-Gross-Krook phase-space relaxation, eliminating unphysical symmetry breaking and regularizing mean-field singularities at polynomial $\mathcal{O}(N^3)$ computational cost.
